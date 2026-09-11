@@ -11,3 +11,9 @@ A Python script using Netmiko to automatically connect to Cisco routers, gather 
 ## Requirements
 - Python 3.x
 - `netmiko` library (`pip install netmiko`)
+![](backup1.PNG)
+![](backup2.PNG)
+![](backup3.PNG)
+![](backup4.PNG)
+![](backup5.PNG)
+![](console_back.PNG)
